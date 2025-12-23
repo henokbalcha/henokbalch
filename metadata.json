@@ -1,0 +1,7 @@
+{
+  "name": "Aura Stylist",
+  "description": "A high-end virtual stylist that creates curated outfits from your single clothing items using generative AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
